@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Rails.application.routes.draw do
+=======
+DemoApp::Application.routes.draw do
+>>>>>>> 89cb1bc10b60ba925dcd2737da4aa7374b78d79e
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
@@ -39,7 +43,11 @@ Rails.application.routes.draw do
   #       get 'recent', on: :collection
   #     end
   #   end
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 89cb1bc10b60ba925dcd2737da4aa7374b78d79e
   # Example resource route with concerns:
   #   concern :toggleable do
   #     post 'toggle'
